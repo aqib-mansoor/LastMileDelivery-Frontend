@@ -52,7 +52,7 @@ LMDS (Last Mile Delivery System) is an **all-in-one platform** that connects **c
 - **Database**: MySQL  
 - **API Communication**: Axios (with clean modular structure)  
 
-Backend Repository 👉 [LMDS Backend (Laravel + MySQL)](https://github.com/aqib-mansoor/-LastMileDelivery-Backend.git)  
+Backend Repository 👉 [LMDS Backend - PHP Laravel](https://github.com/aqib-mansoor/-LastMileDelivery-Backend.git)  
 
 ---
 
